@@ -195,6 +195,3 @@ while True:
 		print("100%■■■■■■■■■")
 		time.sleep(0.5) 
 	sys.exit()
-
-
-#/Users/naplo/Desktop/sublist.txt
